@@ -390,4 +390,4 @@ if __name__ == "__main__":
         send_webhook(['YOUR DISCORD WEBHOOK URL'])
     else:
         del sys.argv[0]
-        send_webhook(sys.argv
+        send_webhook(sys.argv)
